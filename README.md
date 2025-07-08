@@ -37,13 +37,14 @@ Amacım; teknolojiyi faydaya dönüştürmek, sektöre katkı sağlamak ve gerç
 - **Görüntü Karşılaştırma** – Orman yangınlarından önce/sonra görselleri karşılaştıran yapay zeka destekli proje  
 - **Veri Analizi Uygulamaları** – Scikit-learn, Pandas ve Matplotlib kullanarak yapılan analizler  
 - **Firebase ile Mobil Uygulama** – Realtime Database destekli kullanıcı yönetimi ve bildirim sistemi  
-
+- **Google Ai Studio** -Terapi odası projesi
 ---
 
 ## 📬 Bana Ulaşın
 
-📧 **E-posta:** [hulyagunes@example.com]  
+📧 **E-posta:** [hulyagunes278@gmail.com]  
 🌐 **LinkedIn:** [linkedin.com/in/hulyagunes](https://linkedin.com)  
 📂 **GitHub:** [github.com/hlygns](https://github.com/hlygns)
+📊 **Kaggle:** [kaggle.com/hlyagnes](https://www.kaggle.com/hlyagnes)
 he Preview link to take a look at your changes.
 --->
