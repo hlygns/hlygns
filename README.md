@@ -1,7 +1,7 @@
 ## Merhaba 👋  
 # Hülya Güneş 🎓💻  
 
-Merhaba! Ben Hülya Güneş. Bandırma Onyedi Eylül Üniversitesi Yazılım Mühendisliği 4. sınıf öğrencisiyim. Yazılım geliştirme, yapay zeka ve veri bilimi alanlarına ilgi duyuyorum. Özellikle Python 🐍, C# ve ASP.NET Core ile projeler geliştiriyor, görüntü işleme 📸 ve makine öğrenmesi 🤖 konularında çalışıyorum.
+Merhaba! Ben Hülya Güneş. Bandırma Onyedi Eylül Üniversitesi Yazılım Mühendisliği 4. sınıf öğrencisiyim. Yazılım geliştirme, yapay zeka ve veri bilimi alanlarına ilgi duyuyorum. Özellikle görüntü işleme 📸 ve makine öğrenmesi 🤖 alanlarıyla ilgili projeler geliştiriyorum.
 
 BTK Akademi’nin yapay zeka bootcamp’ine katıldım ve bu alanda kendimi sürekli geliştiriyorum. Veri analizi 📊, sahte haber tespiti 🕵️‍♀️, görsel karşılaştırma ve web tabanlı uygulamalar üzerine projeler geliştiriyorum. Aynı zamanda Firebase, TensorFlow, Scikit-learn gibi teknolojileri de aktif olarak kullanıyorum.
 
@@ -32,7 +32,8 @@ Amacım; teknolojiyi faydaya dönüştürmek, sektöre katkı sağlamak ve gerç
 ---
 
 ## 📁 Öne Çıkan Projeler
-
+- **Akıllı Atık Yönetim Sistemi** - Geri dönüşüm süreçlerinin optimize edilmesini sağlayan kapsamlı bir proje
+- **Işık Kirliliği** -Drone görüntülerinden ışık kirliliğini tahmin eden sistem
 - **Fake News Detection** – Veri madenciliği dersi kapsamında sahte haberleri sınıflandırma projesi  
 - **Görüntü Karşılaştırma** – Orman yangınlarından önce/sonra görselleri karşılaştıran yapay zeka destekli proje  
 - **Veri Analizi Uygulamaları** – Scikit-learn, Pandas ve Matplotlib kullanarak yapılan analizler  
