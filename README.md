@@ -1,51 +1,52 @@
-## Merhaba 👋  
-# Hülya Güneş 🎓💻  
+<h1 align="center">Hülya Güneş</h1>
+<p align="center"><b>Software Engineer | C# / .NET | React | Backend & Full-Stack Development</b></p>
 
-Merhaba! Ben Hülya Güneş. Bandırma Onyedi Eylül Üniversitesi Yazılım Mühendisliği 4. sınıf öğrencisiyim. Yazılım geliştirme, yapay zeka ve veri bilimi alanlarına ilgi duyuyorum. Özellikle görüntü işleme 📸 ve makine öğrenmesi 🤖 alanlarıyla ilgili projeler geliştiriyorum.
-
-BTK Akademi’nin yapay zeka bootcamp’ine katıldım ve bu alanda kendimi sürekli geliştiriyorum. Veri analizi 📊, sahte haber tespiti 🕵️‍♀️, görsel karşılaştırma ve web tabanlı uygulamalar üzerine projeler geliştiriyorum. Aynı zamanda Firebase, TensorFlow, Scikit-learn gibi teknolojileri de aktif olarak kullanıyorum.
-
-Amacım; teknolojiyi faydaya dönüştürmek, sektöre katkı sağlamak ve gerçek dünya problemlerine çözüm üreten projelerde yer almak 🚀.
+<p align="center">
+📍 Turkey · 🎓 Software Engineering Graduate · 💼 Open to Junior Software Developer / .NET Developer roles
+</p>
 
 ---
 
-## ⚙️ Yetenekler
+## About
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-red?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Recent Software Engineering graduate focused on backend development with **C# / .NET / ASP.NET Core**, complemented by **React / TypeScript** on the frontend. Comfortable working across the full stack, with additional hands-on experience in AI-assisted image processing and data science projects.
+
+Currently building production-style projects using Clean Architecture, REST APIs, Entity Framework Core, and Docker to strengthen real-world engineering practice — not just tutorial-following.
 
 ---
 
-## 📌 İlgi Alanlarım
+## Tech Stack
 
-- Veri Bilimi & Görselleştirme 📈  
-- Görüntü İşleme ve Derin Öğrenme 🧠  
-- Yapay Zeka Destekli Uygulamalar 🤖  
-- Web ve Mobil Tabanlı Proje Geliştirme 🌐  
-- Bilgi tabanlı oyun projeleri 🎮  
+**Backend**
+`C#` `.NET` `ASP.NET Core` `Entity Framework Core` `REST APIs` `SQL`
+
+**Frontend**
+`React` `TypeScript`
+
+**Engineering**
+`Clean Architecture` `Docker` `Testing` `CI/CD` `Git / GitHub`
+
+**Also working with**
+`Ruby on Rails` `Python` `Computer Vision` `AI / VLM Integration`
 
 ---
 
-## 📁 Öne Çıkan Projeler
-- **Akıllı Atık Yönetim Sistemi** - Geri dönüşüm süreçlerinin optimize edilmesini sağlayan kapsamlı bir proje
-- **Işık Kirliliği** -Drone görüntülerinden ışık kirliliğini tahmin eden sistem
-- **Fake News Detection** – Veri madenciliği dersi kapsamında sahte haberleri sınıflandırma projesi  
-- **Görüntü Karşılaştırma** – Orman yangınlarından önce/sonra görselleri karşılaştıran yapay zeka destekli proje  
-- **Veri Analizi Uygulamaları** – Scikit-learn, Pandas ve Matplotlib kullanarak yapılan analizler  
-- **Firebase ile Mobil Uygulama** – Realtime Database destekli kullanıcı yönetimi ve bildirim sistemi  
-- **Google Ai Studio** -Terapi odası projesi
+## Featured Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| [SehirTahminOyunu](https://github.com/hlygns/SehirTahminOyunu) | C# | Clue-based city-guessing application built in C#. |
+| [OgrenciNotKayitSistemi](https://github.com/hlygns/OgrenciNotKayitSistemi) | C# | Student grade record management application. |
+| [Terapi_Odasi](https://github.com/hlygns/Terapi_Odasi) | TypeScript | Web-based application exploring an AI-assisted "therapy room" concept. |
+| [OpenCV-leGoruntu-sleme](https://github.com/hlygns/OpenCV-leGoruntu-sleme) | Python / OpenCV | Image processing experiments using OpenCV (filtering, edge detection, contour analysis). |
+| [Data-science](https://github.com/hlygns/Data-science) | Jupyter Notebook | Fake news classification project using classic data mining/ML techniques. |
+
+*(Full list of repositories available on the [Repositories tab](https://github.com/hlygns?tab=repositories).)*
+
 ---
 
-## 📬 Bana Ulaşın
+## Contact
 
-📧 **E-posta:** [hulyagunes278@gmail.com]  
-🌐 **LinkedIn:** [linkedin.com/in/hulyagunes](https://linkedin.com)  
-📂 **GitHub:** [github.com/hlygns](https://github.com/hlygns)
-📊 **Kaggle:** [kaggle.com/hlyagnes](https://www.kaggle.com/hlyagnes)
-he Preview link to take a look at your changes.
---->
+- **Email:** hulyagunes278@gmail.com
+- **LinkedIn:** [linkedin.com/in/your-actual-handle](https://linkedin.com)
+- **Kaggle:** [kaggle.com/hlyagnes](https://www.kaggle.com/hlyagnes)
