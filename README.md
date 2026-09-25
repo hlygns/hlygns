@@ -48,5 +48,5 @@ Currently building production-style projects using Clean Architecture, REST APIs
 ## Contact
 
 - **Email:** hulyagunes278@gmail.com
-- **LinkedIn:** [linkedin.com/in/your-actual-handle](https://linkedin.com)
+- **LinkedIn:** www.linkedin.com/in/hulyaguness
 - **Kaggle:** [kaggle.com/hlyagnes](https://www.kaggle.com/hlyagnes)
