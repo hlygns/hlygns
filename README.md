@@ -51,7 +51,7 @@ Currently building production-style projects with Clean Architecture, REST APIs,
 I write about what I learn on Medium *(in Turkish)*:
 
 - [Clean Architecture Sandığım Şey Değilmiş: Mikroservis Farkı ve 4 Katman](https://medium.com/@hulyaguness359/clean-architecture-sand%C4%B1%C4%9F%C4%B1m-%C5%9Fey-de%C4%9Filmi%C5%9F-mikroservis-fark%C4%B1-ve-4-katman-feb88edca9e6)– Clean Architecture layers and how it differs from microservices
-- [Clean Architecture Serisi #2: Kodumu Nasıl Test Ettim? (xUnit + Moq)(https://medium.com/@hulyaguness359/clean-architecture-serisi-2-kodumu-nas%C4%B1l-test-ettim-xunit-moq-070031377e06) – Unit testing in Clean Architecture with xUnit and Moq
+- [Clean Architecture Serisi #2: Kodumu Nasıl Test Ettim? (xUnit + Moq)](https://medium.com/@hulyaguness359/clean-architecture-serisi-2-kodumu-nas%C4%B1l-test-ettim-xunit-moq-070031377e06) – Unit testing in Clean Architecture with xUnit and Moq
 
 👉 All articles: [medium.com/@hulyaguness359](https://medium.com/@hulyaguness359)
 
